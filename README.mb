@@ -1,1 +1,3 @@
-branch = master
+<<<<<<< HEAD
+branch1 = master
+branch2 = feature_A
