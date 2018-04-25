@@ -2,3 +2,5 @@ branch1 = master
 branch2 = feature_A
 
 newBranch:feature_C
+
+sth different
